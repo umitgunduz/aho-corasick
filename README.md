@@ -7,6 +7,7 @@ Aho-Corasick
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.ahocorasick/ahocorasick/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.ahocorasick/ahocorasick)
 [![Javadoc](https://javadoc-emblem.rhcloud.com/doc/org.ahocorasick/ahocorasick/badge.svg)](http://www.javadoc.io/doc/org.ahocorasick/ahocorasick)
 [![Apache 2](http://img.shields.io/badge/license-Apache%202-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fumitgunduz%2Faho-corasick.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fumitgunduz%2Faho-corasick?ref=badge_shield)
 
 Dependency
 ----------
@@ -235,3 +236,7 @@ Releases
 
 See [releases](https://github.com/robert-bor/aho-corasick/releases) for details.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fumitgunduz%2Faho-corasick.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fumitgunduz%2Faho-corasick?ref=badge_large)
